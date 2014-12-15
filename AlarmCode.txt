@@ -1,0 +1,32 @@
+void Mode(){
+ if (checkSwitch1()==1){
+ changeHours();
+ changeMinutes();
+ resetSeconds();
+ changeMonth();
+ changeDay();
+ changeYear();
+ }
+
+
+void Light(){
+}
+
+ if (checkSwitch2()==1){
+  Serial1.increase BrightNess(10 sec) 
+  Serial1.backtonormal();
+ }
+ 
+void ActivateAlarm(){
+
+
+}
+
+void setAlarm(){
+ if checkSwitch3(){
+   Serial1.print("Set alarm time");
+   if(checkSwitch3())
+     increase hour 
+ }
+
+}
